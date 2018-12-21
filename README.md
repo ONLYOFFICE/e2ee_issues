@@ -49,7 +49,7 @@ Now you can create and edit your local files and store them in the cloud private
 
 To learn how it works, visit this page.
 
-Project Information:
+## Project Information:
 
 [Official website](https://www.onlyoffice.com/onlyoffice-blockchain.aspx)
 
