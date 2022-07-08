@@ -9,7 +9,7 @@ Besides, it protects all the inputs while co-editing documents at both sides.
 
 * Reliable document encryption (AES-256);
 
-* Support for all key formats: DOCX, XLSX, PPTX, ODT, ODS, ODX, PDF;
+* Support for all key formats: DOCX, XLSX, PPTX, ODT, ODS, ODP, PDF;
 
 * Flexible access rights management: Full access, Review, Comment only, View only, etc.;
 
